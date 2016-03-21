@@ -1,16 +1,16 @@
 # Site settings
-title: Ryan
+title: Phbai
 header-img: img/home-bg.jpg
-email: wanglun02@gmail.com
+email: phbaip@gmail.com
 description: ""
 baseurl: ""
-url: "http://aelam.github.io"
-twitter_username: lunwang
-github_username:  aelam
+url: "http://phbai.github.io"
+twitter_username: phbaip
+github_username:  phbai
 facebook_username:  com.ryan.wang
-weibo_username: chanweilun
-zhihu_username: aelam
-author: Ryan
+weibo_username: phbaip
+zhihu_username: phbai
+author: Phbai
 
 # Build settings
 markdown: kramdown
